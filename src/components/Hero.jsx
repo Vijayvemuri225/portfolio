@@ -48,7 +48,7 @@ education and project experience to excel as a Full Stack Developer.
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
             <a
-              href=""
+              
               className=" bg-black text-[1rem] text-white px-10 py-2 sm:px-8 rounded-lg font-bold  hover:text-yellow-500"
             >
               <span> Hire Me</span>
@@ -88,13 +88,13 @@ education and project experience to excel as a Full Stack Developer.
                 </a>
               </li>
               <li>
-                <a href="">
+                <a >
                   {" "}
                   <FaFacebook className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
               </li>
               <li>
-                <a href="">
+                <a >
                   {" "}
                   <AiFillTwitterCircle className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
